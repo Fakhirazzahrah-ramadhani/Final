@@ -1,0 +1,3 @@
+Luas persegi dengan panjang 2.0 dan lebar 5.0 adalah 10.0
+Luas segitiga dengan panjang 4.0 dan tinggi 5.0 adalah 10.0
+Luas Lingkaran dengan jari-jari 6.0 adalah 113.03999999999999
